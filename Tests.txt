@@ -1,0 +1,34 @@
+{
+    "Math": {
+        "test1": {
+            "date": "2026-06-20",
+            "priority": "High",
+            "score": 85,
+            "subject": "Math",
+            "weight": 0.2
+        },
+        "test3": {
+            "date": "2026-06-25",
+            "priority": "Low",
+            "score": 75,
+            "subject": "Math",
+            "weight": 0.1
+        }
+    },
+    "Physics": {
+        "test2": {
+            "date": "2026-07-01",
+            "priority": "Medium",
+            "score": 90,
+            "subject": "Physics",
+            "weight": 0.3
+        },
+        "test4": {
+            "date": "2026-08-15",
+            "priority": "Medium",
+            "score": 88,
+            "subject": "History",
+            "weight": 0.4
+        }
+    }
+}
